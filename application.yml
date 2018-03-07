@@ -10,4 +10,6 @@ spring:
     username: guest
     password: guest      
       
+signing:
+  key: 72637362
       
